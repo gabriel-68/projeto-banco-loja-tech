@@ -26,5 +26,4 @@ Além das atividades práticas, este projeto consolida a diferença conceitual e
 4. Padronizar regras matemáticas de leitura de dados.
 5. Integrar relatórios com frameworks ORM modernos.
 
----
-*Atividade desenvolvida individualmente para a disciplina de Banco de Dados.*
+
